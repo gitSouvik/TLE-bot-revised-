@@ -14,8 +14,8 @@ dependencies = [
   "seaborn",
   # Images
   "pillow",
+  "legacy-cgi",
   "pycairo",
-  "PyGObject",
 ]
 
 [project.optional-dependencies]
